@@ -1,0 +1,4 @@
+[submodule "crawler/tbscrawler"]
+	path = crawler/tbscrawler
+	url = git@coding.net:tbs_info/TBSCrawler.git
+	branch = develop
